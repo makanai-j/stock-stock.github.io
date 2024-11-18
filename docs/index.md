@@ -41,20 +41,10 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 
   ![グループに追加](./docs/groupplusicon.png)
 
-> ##### TIP
+> ##### 補足
 >
 > 平均約定単価で追加されます
 > {: .block-tip }
-
-{{site.data.alerts.note}}
-
-<p>This is my note.</p>
-<pre>
-def foo(x):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;return x+1
-</pre>
-
-{{site.data.alerts.end}}
 
 #### CSV ファイルで
 
@@ -62,11 +52,17 @@ def foo(x):<br>
 
   ![csv追加](./docs/csvbutton.png)
 
-> ##### WARNING
+> ##### 注意
 >
 > SBI 証券の CSV ファイルのみ読み込みできます。
 > また、SBI 証券の CSV ファイルは日付情報のみで、時間情報がないので、正確な日時で追加したい場合は、csv ファイルを編集するか、キーボード入力していただく必要があります。
 > {: .block-warning }
+
+> ##### 補足
+>
+> SBI 証券 CSV ファイル出力
+> [ホームページ](https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=service&dir=service&file=home_kakutei_rei.html) > [HYPER SBI 2](https://search.sbisec.co.jp/v2/popwin/guide/tool/hyper_sbi_2/05_trading/ck_orderstatus.html#a14)
+> {: .block-tip }
 
 ### 履歴確認
 
@@ -76,7 +72,7 @@ def foo(x):<br>
 
 日付選択は年月のみになります。
 
-> ##### WARNING
+> ##### 注意
 >
 > インターネット接続されていない場合はチャート情報が表示されません。
 > {: .block-warning }
