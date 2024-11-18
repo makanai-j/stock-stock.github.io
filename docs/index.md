@@ -46,8 +46,6 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 > 平均約定単価で追加されます
 > {: .block-tip }
 
-{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
-
 {{site.data.alerts.note}}
 
 <p>This is my note.</p>
