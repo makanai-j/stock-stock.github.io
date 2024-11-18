@@ -1,6 +1,6 @@
-## 操作説明
+# 操作説明
 
-### 取引データ追加
+## 取引データ追加
 
 一番右のアイコン
 
@@ -64,7 +64,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 > [ホームページ](https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=service&dir=service&file=home_kakutei_rei.html) > [HYPER SBI 2](https://search.sbisec.co.jp/v2/popwin/guide/tool/hyper_sbi_2/05_trading/ck_orderstatus.html#a14)
 > {: .block-tip }
 
-### 履歴確認
+## 履歴確認
 
 右から 2 番目のアイコン
 
@@ -77,7 +77,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 > インターネット接続されていない場合はチャート情報が表示されません。
 > {: .block-warning }
 
-### 損益確認
+## 損益確認
 
 右から 3 番目のアイコン
 
