@@ -44,6 +44,14 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 > ##### TIP
 >
 > 平均約定単価で追加されます
+> {: .block-tip }
+
+> ##### TIP
+>
+> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
+> this or a similar version after installation.
+
+{: .block-tip }
 
 #### CSV ファイルで
 
