@@ -51,9 +51,19 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 > This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
 > this or a similar version after installation.
 
+{: .block-tip }
+
 {% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
-{: .block-tip }
+{{site.data.alerts.note}}
+
+<p>This is my note.</p>
+<pre>
+def foo(x):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;return x+1
+</pre>
+
+{{site.data.alerts.end}}
 
 #### CSV ファイルで
 
