@@ -4,7 +4,7 @@
 
 一番右のアイコン
 
-![inputicon](./docs/inputicon.png)
+![inputicon](./inputicon.png)
 
 追加方法は、キーボード入力と CSV ファイルの 2 つあります。
 
@@ -31,7 +31,7 @@
 
 - レコード一番左のプラスアイコン押下
 
-  ![コピー追加](./docs/copyplusicon.png)
+  ![コピー追加](./copyplusicon.png)
 
 ##### グループ追加
 
@@ -39,7 +39,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 
 - レコード左から 2 番目の G アイコンを押下
 
-  ![グループに追加](./docs/groupplusicon.png)
+  ![グループに追加](./groupplusicon.png)
 
 > ##### 補足
 >
@@ -50,7 +50,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 
 - 保存ボタン右の CSV ボタンを押下
 
-  ![csv追加](./docs/csvbutton.png)
+  ![csv追加](./csvbutton.png)
 
 > ##### 注意
 >
@@ -68,7 +68,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 
 右から 2 番目のアイコン
 
-![historyicon](./docs/historyicon.png)
+![historyicon](./historyicon.png)
 
 日付選択は年月のみになります。
 
@@ -81,7 +81,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 
 右から 3 番目のアイコン
 
-![profitandlossicon](./docs/pnlicon.png)
+![profitandlossicon](./pnlicon.png)
 
 #### 間隔種別とその表示期間
 
