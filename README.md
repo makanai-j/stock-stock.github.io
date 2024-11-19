@@ -59,8 +59,7 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 > [!TIP]
 >
 > SBI 証券 CSV ファイル出力
-> [ホームページ](https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=service&dir=service&file=home_kakutei_rei.html)
-> [HYPER SBI 2](https://search.sbisec.co.jp/v2/popwin/guide/tool/hyper_sbi_2/05_trading/ck_orderstatus.html#a14)
+> [ホームページ](https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=service&dir=service&file=home_kakutei_rei.html) > [HYPER SBI 2](https://search.sbisec.co.jp/v2/popwin/guide/tool/hyper_sbi_2/05_trading/ck_orderstatus.html#a14)
 
 ### 履歴確認
 
@@ -82,10 +81,12 @@ SOR 取引などで一度の取引が異なる値段で約定された際に、�
 
 #### 間隔種別とその表示期間
 
-1. 日 : 1 か月
-2. 週 : 3 か月
-3. 月 : 1 年
-4. 年 : 全期間
+| 間隔 | 表示期間 |
+| ---- | -------- |
+| 日   | 1 か月   |
+| 週   | 3 か月   |
+| 月   | 1 年     |
+| 年   | 全期間   |
 
 #### グラフについて
 
